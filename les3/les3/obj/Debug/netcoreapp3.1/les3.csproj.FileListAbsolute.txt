@@ -1,0 +1,5 @@
+C:\shoollwerk map\leerjaar 2\opdracht C#\c-opdrachten\les3\les3\obj\Debug\netcoreapp3.1\les3.csproj.AssemblyReference.cache
+C:\shoollwerk map\leerjaar 2\opdracht C#\c-opdrachten\les3\les3\obj\Debug\netcoreapp3.1\les3.GeneratedMSBuildEditorConfig.editorconfig
+C:\shoollwerk map\leerjaar 2\opdracht C#\c-opdrachten\les3\les3\obj\Debug\netcoreapp3.1\les3.AssemblyInfoInputs.cache
+C:\shoollwerk map\leerjaar 2\opdracht C#\c-opdrachten\les3\les3\obj\Debug\netcoreapp3.1\les3.AssemblyInfo.cs
+C:\shoollwerk map\leerjaar 2\opdracht C#\c-opdrachten\les3\les3\obj\Debug\netcoreapp3.1\les3.csproj.CoreCompileInputs.cache
